@@ -1,0 +1,66 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#empezar{
+	-fx-background-color:black;
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+}
+
+#nombreUsuario{
+	-fx-font-size: 25px;
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+	-fx-background-color:black;
+}
+
+#rdBoton1{
+	-fx-font-size: 15px;
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+}
+
+#rdBoton2{
+		-fx-font-size: 15px;
+
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+}
+
+#rdBoton3{
+		-fx-font-size: 15px;
+
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+}
+
+#rdBoton4{
+	-fx-font-size: 15px;
+
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+}
+
+#pregunta{
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+	-fx-text-fill: yellow;
+}
+
+#personajeFinal{
+	-fx-font-size: 30px;
+	-fx-font-weight: bold;
+	-fx-text-fill: yellow;
+}
+
+#Grupo{
+	-fx-font-weight: bold;
+	-fx-text-fill: yellow;
+
+}
+#easteregg{
+	-fx-background-color:black;
+}
+#btnSiguiente{
+	-fx-background-color:black;
+	-fx-text-fill: yellow;
+
+}
